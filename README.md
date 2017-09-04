@@ -1,5 +1,3 @@
 Lebedev Oleg
-ISIT_2-3
 
-  ▲
- ▲ ▲
+ISIT_2-3
